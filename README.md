@@ -4,8 +4,9 @@
 # 用户数据格式
 ```
 [
-  { cookie:"",uid:"" },
-  { cookie:"",uid:"" }
+  { "cookie":"",uid:"" },
+  { "cookie":"",uid:"" },
+  ...
 ]
 ```
 
